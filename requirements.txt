@@ -124,7 +124,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 s3fs==2023.1.0
 scikit-learn==1.2.1
-scipy==1.10.1
+scipy==1.9.3
 seaborn==0.12.2
 Send2Trash==1.8.0
 setuptools==67.1.0
